@@ -22,7 +22,7 @@
 }
 .text{
     color:#3c009d;
-    font-size:48px;
+    font-size:38px;
     font-weight:700;
 }
 
@@ -86,4 +86,8 @@
     font-size:19px;
     font-weight:700;
     cursor:pointer;
+}
+.gray{
+    background: #EAEAEA;
+    color: #676767;
 }
